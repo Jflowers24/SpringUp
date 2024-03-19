@@ -11,8 +11,7 @@ import java.util.HashSet;
 import java.util.Locale;
 import java.util.Set;
 
-import static com.sun.tools.javac.resources.CompilerProperties.Fragments.Local;
-import static org.springframework.data.jpa.domain.AbstractPersistable_.id;
+
 
 
 @Entity
